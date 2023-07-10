@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <p align="left">
     <i>
         🏦 I am a junior data scientist with the National Health Service of England.<br>
-        👨🏻‍🎓 I graduated MSc with Distinction in Data Science.<br>
-        💻 I was an engineer in Korea🇰🇷, moved to UK🇬🇧 for further studies, and currently based in London.<br>
+        👨🏻‍🎓 Graduated MSc with Distinction in Data Science.<br>
+        💻 Was an Hardware Development Engineer in Korea🇰🇷, moved to UK🇬🇧 for further studies, and currently based in London.<br>
         🌱 Currently studying machine learning, cloud computing, and rediscovering my love for programming.<br>
         👯 Open to making new connections.<br><br>
     </i><br>
