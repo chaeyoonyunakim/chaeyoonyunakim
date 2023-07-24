@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonyunakim)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/chaeyoonyunakim)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/chaeyoonyunakim)
 
 <p align="center">
   <a href="https://github.com/chaeyoonyunakim">
