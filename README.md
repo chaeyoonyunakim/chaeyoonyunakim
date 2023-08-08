@@ -16,22 +16,31 @@ Here are some ideas to get you started:
 <p align="left">
     <i>
         🏦 I am a junior data scientist with the National Health Service of England.<br>
+        🌱 Working with machine learning projects and learning cloud computing.<br>
         👨🏻‍🎓 Graduated MSc with Distinction in Data Science.<br>
-        💻 Was an Hardware Development Engineer in Korea🇰🇷, moved to UK🇬🇧 for further studies, and currently based in London.<br>
-        🌱 Currently studying machine learning, cloud computing, and rediscovering my love for programming.<br>
+        💻 Currently based in London. Previously, I Was a Hardware Development Engineer in Korea🇰🇷.<br>
         👯 Open to making new connections.<br><br>
     </i><br>
     <a href="https://www.linkedin.com/in/chaeyoonyunakim">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     <a href="mailto:chaeyoonyunakim@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
+    <a href="https://www.freecodecamp.org/korean/news/author/chaeyoon/">
+        <img scr="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a><br>
 </p>
 
-### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonyunakim)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/chaeyoonyunakim)
-[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/chaeyoonyunakim)
+[![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chaeyoonyunakim)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white)](https://github.com/chaeyoonyunakim)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<!--
+[Dashboard](https://github-readme-stats.vercel.app/api?username=chaeyoonyunakim&theme=blue-green)
+[Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyoonyunakim&theme=blue-green>
+[Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+-->
+
 
 <p align="center">
   <a href="https://github.com/chaeyoonyunakim">
